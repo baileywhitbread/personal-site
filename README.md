@@ -1,2 +1,2 @@
 # personal-site
- This is my personal website baileywhitbread.com
+ This is my personal website [baileywhitbread.com](https://baileywhitbread.com)
