@@ -109,7 +109,7 @@ I have tutored at UQ for the following courses:
     E-Polynomial](files/22_amsi_talk.pdf) (AMSI Winter School, Jun 2022).
 -   [Hecke Algebras and Gelfand Pairs in Representation
     Theory](files/21_honours_talk.pdf) (Honours Final Talk, May 2021).
--   Kinky Sets (For [MSS](https://www.facebook.com/uqmss), Mar 2021).
+-   [Kinky Sets](files/21_kinky_sets.pdf) (For [MSS](https://www.facebook.com/uqmss), Mar 2021).
 -   [The Twin Prime and Elliot--Halberstam
     Conjectures](files/20_elliot_halberstam.pdf) (Coursework, Oct 2020).
 -   The Dirichlet Function (For
