@@ -1,2 +1,6 @@
 # personal-site
- This is my personal website [baileywhitbread.com](https://baileywhitbread.com)
+
+This is my personal website [baileywhitbread.com](https://baileywhitbread.com).
+
+It is written in R Markdown and outputs the html you are seeing.
+
