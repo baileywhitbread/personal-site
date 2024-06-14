@@ -175,9 +175,6 @@ You may have met me at the following:
     -   [Metallic Silhouette](https://www.ssaa.org.au/disciplines/all-disciplines/rifle-metallic-silhouette/) Cowboy Rifle Lever Action.
         -   Centerfire Grade AA.
         -   Rimfire Grade A.
-        
-### This site
-I made this site with [R Markdown](https://rmarkdown.rstudio.com) and published it using [Netlify](https://www.netlify.com).
 
 ### Photos
 
