@@ -10,8 +10,6 @@ editor_options:
 
 ### About
 
-Test
-
 I am an Australian graduate student in mathematics. My [CV](files/CV.pdf) (April 2024). My [GitHub](https://github.com/baileywhitbread). 
 
 
