@@ -10,7 +10,7 @@ editor_options:
 
 ### About
 
-I am an Australian graduate student in mathematics. My [CV](files/CV.pdf) (April 2024). My [GitHub](https://github.com/baileywhitbread). 
+I am an Australian graduate student in mathematics. 
 
 
 ![](files/21_me_heron.png){width="100%"}\
@@ -33,14 +33,13 @@ My advisors are [Masoud
 Kamgarpour](https://sites.google.com/site/masoudkomi/home) and [Ole
 Warnaar](https://people.smp.uq.edu.au/OleWarnaar/). 
 
-Previous advisors and mentors include [Anna Puskás](https://people.smp.uq.edu.au/AnnaPuskas/), [Ramiro Lafuente](https://sites.google.com/view/ramlaf/home) and [Valentin Buciumas](https://sites.google.com/site/valentinbuciumas/home).
+My CV is [here](files/CV.pdf) and my GitHub is [here](https://github.com/baileywhitbread). 
 
-Broadly, I am interested in representation theory, geometry, and combinatorics. Specific topics include finite
-groups of Lie type, Coxeter groups and Iwahori–Hecke algebras. I am currently researching character varieties associated to arbitrary reductive groups. 
+I am interested in representation theory, geometry, and computational mathematics, often using the [Chevie package](https://jmichel7.github.io/Chevie.jl/) for Julia.
 
-I am also interested in computational aspects of all of the above. For example, I often use the [Chevie package](https://jmichel7.github.io/Chevie.jl/) for Julia.
+My masters thesis was about the [Arithmetic Geometry of Character Varieties](files/24_mphil_thesis.pdf).
 
-For a visual explanation of my masters project, I created a poster about the [Topology of Representation Spaces via Arithmetic](files/23_poster.pdf).
+For a visual explanation, I created a poster about the [Topology of Representation Spaces via Arithmetic](files/23_poster.pdf).
 
 My undergraduate thesis was about [Hecke Algebras and Gelfand Pairs in
 Representation Theory](files/21_honours_thesis.pdf).
@@ -149,26 +148,9 @@ You may have met me at the following:
 -   I play Tetris.
     -   [Me](https://ch.tetr.io/u/qbailey) on
         [TETR.IO](https://tetr.io/).
-    -   Other Tetris versions that I play:
-        -   [NES Tetris](files/tetris.nes) (right-click -\> 'Save as...'
-            -\> tetris.nes, play this file with
-            [Mesen](https://www.mesen.ca/)),
-        -   [NullpoMino](https://github.com/nullpomino/nullpomino),
-        -   [Jstris](https://jstris.jezevec10.com/).
-    -   Some very bad scores:
-        -   TETR.IO, 40L race,
-            [1:00.197](https://tetr.io/#r:61b440fd551f6403891aab5c)
-            (2022).
-        -   TETR.IO, Blitz, [100,490](https://tetr.io/#R:ALZPXOJjc)
-            (2022).
-        -   NES Tetris, Level 15 Start, [513,900](files/24_nes_L15.png)
-            (2024),
-        -   NES Tetris, Level 18 Start, [430,193](files/18_nes_L18.png)
-            (2018).
--   I've played [Geoguessr](https://www.geoguessr.com/).
-    -   10 seconds no moving, panning or zooming,
-        [20,802](https://www.geoguessr.com/results/VKSszaWqFh68td7r)
-        (2023).
+    -   [NES Tetris](files/tetris.nes) (right-click -\> 'Save as...'-\> tetris.nes, play this file with [Mesen](https://www.mesen.ca/))
+    -   A bad [time](https://tetr.io/#r:61b440fd551f6403891aab5c) and a bad [score](files/24_nes_L15.png).
+-   I played [Geoguessr 10 seconds no moving, panning or zooming](https://www.geoguessr.com/results/VKSszaWqFh68td7r).
 -   Member of [Urban Climb](https://www.urbanclimb.com.au/) (2021 -
     now).
 -   Member of [SSAA](https://ssaa.org.au/) (2019 - now).
