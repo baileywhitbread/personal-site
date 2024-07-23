@@ -10,7 +10,7 @@ editor_options:
 
 ### About
 
-I am an Australian graduate student in mathematics. 
+
 
 
 ![](files/21_me_heron.png){width="100%"}\
@@ -33,16 +33,15 @@ My advisors are [Masoud
 Kamgarpour](https://sites.google.com/site/masoudkomi/home) and [Ole
 Warnaar](https://people.smp.uq.edu.au/OleWarnaar/). 
 
-My CV is [here](files/CV.pdf) and my GitHub is [here](https://github.com/baileywhitbread). 
+I am interested in representation theory, geometry, and computational mathematics.
 
-I am interested in representation theory, geometry, and computational mathematics, often using the [Chevie package](https://jmichel7.github.io/Chevie.jl/) for Julia.
+I like to use the [Chevie package](https://jmichel7.github.io/Chevie.jl/) for Julia.
 
 My masters thesis was about the [Arithmetic Geometry of Character Varieties](files/24_mphil_thesis.pdf).
 
 For a visual explanation, I created a poster about the [Topology of Representation Spaces via Arithmetic](files/23_poster.pdf).
 
-My undergraduate thesis was about [Hecke Algebras and Gelfand Pairs in
-Representation Theory](files/21_honours_thesis.pdf).
+My undergraduate thesis was about [Hecke Algebras and Gelfand Pairs in Representation Theory](files/21_honours_thesis.pdf).
 
 
 
