@@ -10,6 +10,7 @@ editor_options:
 
 ### About
 
+I am an Australian graduate student in mathematics. My CV is [here](files/CV.pdf) and my GitHub is [here](https://github.com/baileywhitbread). 
 
 
 
