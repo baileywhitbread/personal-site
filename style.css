@@ -42,6 +42,7 @@ a {
 
 body {
   background-color: #2B2E36;
+  color: white;
 }
 
 a:link {
@@ -49,7 +50,7 @@ a:link {
 }
 
 a:visited {
-  color: #6552F7;
+  color: #2A81FF;
 }
 
 a:hover {
@@ -58,7 +59,7 @@ a:hover {
 }
 
 a:active {
-  color: #6552F7;
+  color: #2A81FF;
 }
 
 *{
