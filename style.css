@@ -1,28 +1,47 @@
 @font-face {
-  font-family: 'Body';
+  font-family: 'Regular';
   src: url('fonts/MPLUS2-Regular.ttf');
 }
 
 @font-face {
-  font-family: 'H1';
+  font-family: 'Bold';
+  src: url('fonts/MPLUS2-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'ExtraBold';
   src: url('fonts/MPLUS2-ExtraBold.ttf');
 }
 
 @font-face {
-  font-family: 'H2';
+  font-family: 'Thin';
+  src: url('fonts/MPLUS2-Thin.ttf');
+}
+
+@font-face {
+  font-family: 'ExtraLight';
   src: url('fonts/MPLUS2-ExtraLight.ttf');
 }
 
 body {
-  font-family: 'H1', sans-serif;
+  font-family: 'Bold', sans-serif;
 }
 
 h1 {
-  font-family: 'H1', sans-serif;
+  font-family: 'Extra', sans-serif;
 }
 
 h2 {
-  font-family: 'H2', sans-serif;
+  font-family: 'ExtraLight', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  text-color: #5D9FFF;
+}
+
+body {
+  background-color: #2B2E36;
 }
 
 a:link {
@@ -30,13 +49,20 @@ a:link {
 }
 
 a:visited {
-  color: #5292F7;
+  color: #6552F7;
 }
 
 a:hover {
   color: #5292F7;
+  text-decoration: underline;
 }
 
 a:active {
-  color: #5292F7;
+  color: #6552F7;
+}
+
+*{
+  margin: auto;
+  width: 90%;
+  padding: 2px;
 }
