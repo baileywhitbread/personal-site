@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Body';
+  src: url('fonts/MPLUS2-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'H1';
+  src: url('fonts/MPLUS2-ExtraBold.ttf');
+}
+
+@font-face {
+  font-family: 'H2';
+  src: url('fonts/MPLUS2-ExtraLight.ttf');
+}
+
+body {
+  font-family: 'H1', sans-serif;
+}
+
+h1 {
+  font-family: 'H1', sans-serif;
+}
+
+h2 {
+  font-family: 'H2', sans-serif;
+}
+
+a:link {
+  color: #5292F7;
+}
+
+a:visited {
+  color: #5292F7;
+}
+
+a:hover {
+  color: #5292F7;
+}
+
+a:active {
+  color: #5292F7;
+}
