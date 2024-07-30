@@ -13,14 +13,6 @@
   src: url('fonts/MPLUS2-ExtraLight.ttf');
 }
 
-*{
-  margin: auto;
-  width: 90%;
-  padding: 2px;
-}
-
-.bottom-space {margin-bottom: 2em;}
-
 body {font-family: 'Bold', sans-serif;}
 h1 {font-family: 'Medium', sans-serif;}
 h2 {font-family: 'ExtraLight', sans-serif;}
@@ -30,12 +22,22 @@ a {
   text-color: #5D9FFF;
 }
 
+a:link {color: #5292F7;}
+a:visited {color: #2A81FF;}
+a:hover {color: #5292F7; text-decoration: underline;}
+a:active {color: #2A81FF;}
+
 body {
   background-color: #2B2E36;
   color: white;
 }
 
-a:link {color: #5292F7;}
-a:visited {color: #2A81FF;}
-a:hover {color: #5292F7; text-decoration: underline;}
-a:active {color: #2A81FF;}
+div {
+  margin-bottom: 1em;
+}
+
+*{
+  margin: auto;
+  width: 90%;
+  padding: 2px;
+}
