@@ -72,3 +72,7 @@ a:active {
   width: 90%;
   padding: 2px;
 }
+
+.bottom-space {
+  margin-bottom: 2em;
+}
