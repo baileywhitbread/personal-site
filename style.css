@@ -1,16 +1,6 @@
 @font-face {
-  font-family: 'Regular';
-  src: url('fonts/MPLUS2-Regular.ttf');
-}
-
-@font-face {
   font-family: 'Bold';
   src: url('fonts/MPLUS2-Bold.ttf');
-}
-
-@font-face {
-  font-family: 'ExtraBold';
-  src: url('fonts/MPLUS2-ExtraBold.ttf');
 }
 
 @font-face {
@@ -19,26 +9,21 @@
 }
 
 @font-face {
-  font-family: 'Thin';
-  src: url('fonts/MPLUS2-Thin.ttf');
-}
-
-@font-face {
   font-family: 'ExtraLight';
   src: url('fonts/MPLUS2-ExtraLight.ttf');
 }
 
-body {
-  font-family: 'Bold', sans-serif;
+*{
+  margin: auto;
+  width: 90%;
+  padding: 2px;
 }
 
-h1 {
-  font-family: 'Medium', sans-serif;
-}
+.bottom-space {margin-bottom: 2em;}
 
-h2 {
-  font-family: 'ExtraLight', sans-serif;
-}
+body {font-family: 'Bold', sans-serif;}
+h1 {font-family: 'Medium', sans-serif;}
+h2 {font-family: 'ExtraLight', sans-serif;}
 
 a {
   text-decoration: none;
@@ -50,29 +35,7 @@ body {
   color: white;
 }
 
-a:link {
-  color: #5292F7;
-}
-
-a:visited {
-  color: #2A81FF;
-}
-
-a:hover {
-  color: #5292F7;
-  text-decoration: underline;
-}
-
-a:active {
-  color: #2A81FF;
-}
-
-*{
-  margin: auto;
-  width: 90%;
-  padding: 2px;
-}
-
-.bottom-space {
-  margin-bottom: 2em;
-}
+a:link {color: #5292F7;}
+a:visited {color: #2A81FF;}
+a:hover {color: #5292F7; text-decoration: underline;}
+a:active {color: #2A81FF;}
