@@ -9,13 +9,16 @@
 }
 
 @font-face {
-  font-family: 'ExtraLight';
-  src: url('fonts/MPLUS2-ExtraLight.ttf');
+  font-family: 'Thin';
+  src: url('fonts/MPLUS2-Thin.ttf');
 }
 
 body {font-family: 'Bold', sans-serif;}
 h1 {font-family: 'Medium', sans-serif;}
-h2 {font-family: 'ExtraLight', sans-serif;}
+h2 {
+  font-family: 'Thin', sans-serif;
+  font-size: 1.5em;
+}
 
 a {
   text-decoration: none;
