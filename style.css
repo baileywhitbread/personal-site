@@ -20,10 +20,6 @@ h2 {
   font-size: 1.5em;
 }
 
-a {
-  text-decoration: none;
-  text-color: #5D9FFF;
-}
 
 a:link {color: #5292F7;}
 a:visited {color: #2A81FF;}
@@ -44,3 +40,4 @@ div {
   width: 90%;
   padding: 2px;
 }
+
