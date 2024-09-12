@@ -20,6 +20,9 @@ h2 {
   font-size: 1.5em;
 }
 
+a {
+  text-decoration: none;
+}
 
 a:link {color: #5292F7;}
 a:visited {color: #2A81FF;}
