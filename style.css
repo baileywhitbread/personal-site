@@ -42,3 +42,6 @@ img {
   margin: 1vh auto;
 }
 
+.fixed-image {
+  position: fixed;
+}
