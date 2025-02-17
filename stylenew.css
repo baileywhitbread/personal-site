@@ -13,9 +13,11 @@
   src: url('fonts/MPLUS2-Thin.ttf');
 }
 
-p {
+header {
   font-family: 'Medium', sans-serif;
   font-size: 2vh;
+  max-width: 60vw;
+  margin: auto;
 }
 
 body {
