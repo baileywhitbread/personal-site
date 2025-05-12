@@ -5,8 +5,8 @@
 
 body {
     font-family: MPLUS2Medium, Georgia;
-    margin: 40px auto;
-    max-width: 750px;
+    margin: 10px auto;
+    max-width: 800px;
     text-align: justify;
     padding: 0 15px;
     background-color: #ffffff;
@@ -22,46 +22,3 @@ a:hover {color: #E64626; text-decoration: underline;}
 a:active {color: #E64626;}
 
 h1 {color: #2c2c2c;}
-
-
-/*
-p {
-    margin: auto;
-    max-width: 45vw;
-    text-align: justify;
-    font-size: 18px;
-    font-weight: 400;
-}
-
-*{
-  background-color: #2B2E36;
-  color: white;
-}
-
-header {
-  font-family: 'Medium', sans-serif;
-  font-size: 2vh;
-  max-width: 60vw;
-  margin: auto;
-}
-
-body {
-  font-family: 'Medium', sans-serif;
-  font-size: 2vh;
-  max-width: 60vw;
-  margin: auto;
-}
-
-h1 {
-  font-family: 'Medium', sans-serif;
-  font-size: 3vh;
-}
-
-h2 {
-  font-family: 'Thin', sans-serif;
-  font-size: 3vh;
-}
-
-
-
-*/
