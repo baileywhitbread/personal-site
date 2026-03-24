@@ -3,8 +3,15 @@
   src: url('fonts/MPLUS2-Medium.ttf');
 }
 
+html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+
 body {
     font-family: MPLUS2Medium, Georgia;
+    font-size: 15px;
+    line-height: 1.45;
     margin: 40px auto;
     max-width: 800px;
     text-align: justify;
