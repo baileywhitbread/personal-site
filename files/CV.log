@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2026.1.10)  4 SEP 2026 17:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2026.1.10)  4 OCT 2026 21:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1041,8 +1041,7 @@ LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
 (Font)              scaled to size 8.0pt on input line 27.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
-
-No file CV.aux.
+ (CV.aux)
 \openout1 = `CV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
@@ -1062,6 +1061,7 @@ LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 27.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 2
 7.
+
 (C:\Users\Bailey\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
@@ -1134,16 +1134,17 @@ cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring ON on input line 27.
+ (CV.out) (CV.out)
 \@outlinefile=\write3
 \openout3 = `CV.out'.
 
-
-No file CV.brf.
+ (CV.brf)
 \tf@brf=\write4
 \openout4 = `CV.brf'.
 
 \c@mv@tabular=\count346
 \c@mv@boldtabular=\count347
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1271,24 +1272,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--136
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `CV.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `CV.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  3719E07EABAC86532FE3D959113C47CB;830.
+Package rerunfilecheck Info: File `CV.out' has not changed.
+(rerunfilecheck)             Checksum: 3719E07EABAC86532FE3D959113C47CB;830.
  ) 
 Here is how much of TeX's memory you used:
- 18324 strings out of 469923
- 293928 string characters out of 5468686
- 692668 words of memory out of 5000000
- 44661 multiletter control sequences out of 15000+600000
+ 18343 strings out of 469923
+ 294331 string characters out of 5468686
+ 692662 words of memory out of 5000000
+ 44672 multiletter control sequences out of 15000+600000
  655946 words of font info for 75 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  90i,6n,93p,593b,542s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1297,9 +1288,9 @@ Here is how much of TeX's memory you used:
 wpx/zplb.pfb><C:/Users/Bailey/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 newpx/zplr.pfb><C:/Users/Bailey/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/newpx/zplri.pfb>
-Output written on CV.pdf (3 pages, 143589 bytes).
+Output written on CV.pdf (3 pages, 145989 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
+ 93 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
